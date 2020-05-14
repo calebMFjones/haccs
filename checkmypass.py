@@ -1,3 +1,5 @@
+# run this program from command line or terminal, type in the file name followed by the password you would like to check.
+
 import requests
 import hashlib
 import sys
